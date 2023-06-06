@@ -1,5 +1,5 @@
-version: STSv1
+version: STSv2
 mode: enforce
-mx: mx02.mail.icloud.com
-mx: mx01.mail.icloud.com
+mx: mail.protonmail.ch
+mx: mailsec.protonmail.ch
 max_age: 604800
